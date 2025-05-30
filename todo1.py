@@ -1,4 +1,4 @@
-from utils1 import add_task,view_task, mark_done,delete_task
+from utils1 import add_task, view_task, mark_done, delete_task
 
 def main():
     tasks =[]
